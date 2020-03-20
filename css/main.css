@@ -1,0 +1,152 @@
+/* https://www.color-hex.com/ */
+
+/* BODY*/
+
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #FC926D;
+    text-align: center;
+    color: #6C615F;
+}
+
+/* HEADER */
+
+header {
+    background-color: #FC926D;
+}
+
+#logo-icon{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+a {
+    color:inherit;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #5F91BA;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+}
+
+.menu {
+color: #F5F3EE;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+/* MAIN */
+
+h1{
+  font-size: 45px;
+  padding: 30px 280px 30px 280px;
+}
+
+h2{
+  font-size: 35px;
+  padding: 20px 280px 20px 280px;
+}
+
+h3{
+  font-size: 25px;
+  padding: 0px 280px 0px 280px;
+}
+
+p{
+  font-size: 20px;
+  line-height: 25px;
+  padding: 10px 0 10px 0;
+  margin: 0 200px 0 200px;
+}
+
+#principal{
+  color: #F5F3EE;
+  margin: 0 0 -5px 0;
+}
+
+#introduccion{
+  background-color: #F5F3EE;
+  color: #6C615F;
+  padding-bottom: 30px;
+}
+
+.forth-width{
+  width: 180px;
+  float: center;
+  display: inline-block;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#explicacion{
+  color: #F5F3EE;
+  padding-bottom: 30px;
+}
+
+#animacion{
+  margin-bottom: 50px;
+}
+
+/* FOOTER */
+
+footer{
+  background-color: #F5F3EE;
+  color: #FC926D;
+}
+
+/* DESCUBRENOS */
+
+#descubrenos{
+  background-color: #F5F3EE;
+}
+
+iframe{
+  padding-top: 35px;
+}
+
+#quote{
+  padding-left: 476px;
+}
+
+/* SERVICIOS */
+
+#servicios{
+  background-color: #F5F3EE;
+}
+
+.center-width{
+  width: 880px;
+  float: center;
+  display: inline-block;
+}
+
+.left{
+  text-align: left;
+  padding: 10px 0px 10px 0px;
+}
+
+button{
+  background-color: #FC926DB3;
+  color: #F5F3EE;
+  padding: 5px 10px;
+  border-radius: 10px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+
+}
+
+button:hover{
+  background-color: #FC926D;
+}
+
+/* CONTACTANOS */
+
+#contactanos{
+  background-color: #F5F3EE;
+}
